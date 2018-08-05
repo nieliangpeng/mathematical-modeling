@@ -1,0 +1,2 @@
+# mathematical-modeling
+2017年Mathorcup大学生数学建模挑战赛赛题和团队最后的论文
